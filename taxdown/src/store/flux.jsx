@@ -24,13 +24,7 @@ const getState = ({ getStore, getActions, setStore }) => {
                 }
             ],
 
-            submissions: [
-                {
-                    name: "Juan",
-                    surname: "Gonzalez",
-                    age: "24"
-                }
-            ]
+            submissions: []
         },
         actions: {
 
