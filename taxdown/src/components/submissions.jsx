@@ -6,7 +6,7 @@ import '../submission.css';
 
 export function Submissions() {
   const { store } = useContext(Context);  
-  console.log(store);
+
     return (
       <>       
         <div className="card-container">

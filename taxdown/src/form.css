@@ -12,6 +12,25 @@
 .form-title, .form-description {
     text-align: center;
 }
+.hidden {
+    display: none;
+}
+.error {
+    background-color: #ffd0d0;
+    padding: 0.5rem;
+    border: 1px solid #b70000;
+    color: #b70000;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+.success {
+    background-color: #b3fda5;
+    padding: 0.5rem;
+    border: 1px solid #1ba500;
+    color: #1ba500;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
 
 b{
     color: #02cd55;

@@ -11,10 +11,11 @@ export const Header = (props) => {
             <div className="header-container">
                 <Navbar.Brand>
                     <img
-                    src={logo}
-                    width="250"
-                    height="40"
-                    className="d-inline-block align-top"
+                        alt="Taxdown-logo"
+                        src={logo}
+                        width="250"
+                        height="40"
+                        className="d-inline-block align-top"
                     />{' '}
                     Tax
                 </Navbar.Brand>
